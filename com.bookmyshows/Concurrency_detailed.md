@@ -18,11 +18,12 @@ Helps us to make sure that no other transactions updates the locked row
 Isolation level :
 Even if multiple transactions are running, what is the level of isolation
 
-Isolation level     Dirty Read Possible     Non repeatable read possible       Phantom read possible
-Read uncommitted        Yes                         Yes                             Yes
-Read committed          No                          Yes                             Yes
-Repeatable read         No                          No                              Yes 
-Serializable            No                          No                              No
+| Isolation level | Dirty Read Possible | Non repeatable read possible | Phantom read possible |
+|---|---|---|---|
+| Read uncommitted | Yes | Yes | Yes |
+| Read committed | No | Yes | Yes |
+| Repeatable read | No | No | Yes |
+| Serializable | No | No | No |
 
 Dirty Read Problem ->
 Two transactions are running in parallel, TA and TB.

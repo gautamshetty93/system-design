@@ -12,7 +12,7 @@ If all operations are success then only commit to DB else, rollback.
 DB Locking :
 Helps us to make sure that no other transactions updates the locked row
 - Two types of lock exists -
-  (i) Shared lock/read lock - can not update the row, but can read it
+  (i) Shared lock/read lock - can not update the row, but  can read it
   (ii) Exclusive lock - other transaction can not even read the row
 
 Isolation level :

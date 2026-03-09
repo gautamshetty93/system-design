@@ -1,0 +1,48 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw-jetbrains-plugin",
+  "elements": [
+    {
+      "id": "mz0TevZuSAgT2YIS8RxNu",
+      "type": "text",
+      "x": 239,
+      "y": 107,
+      "width": 909.859375,
+      "height": 450,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 122389960,
+      "version": 386,
+      "versionNonce": 1745125320,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1773077774904,
+      "link": null,
+      "locked": false,
+      "text": "Requirement Gathering\n1) Update score card ball by ball\n\n\nFlow :\n\n2 teams -> Match start -> Innings 1 -> Team A bats, team B bowls --> Player Information\n                            Innings 2 -> Team A bowls, team B bats \n\nObjects\n         - Match   -Innings    -scorecard\n         - Team    -Overs \n         - Players   -Balls\n\n    \n\n\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 443,
+      "containerId": null,
+      "originalText": "Requirement Gathering\n1) Update score card ball by ball\n\n\nFlow :\n\n2 teams -> Match start -> Innings 1 -> Team A bats, team B bowls --> Player Information\n                            Innings 2 -> Team A bowls, team B bats \n\nObjects\n         - Match   -Innings    -scorecard\n         - Team    -Overs \n         - Players   -Balls\n\n    \n\n\n",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

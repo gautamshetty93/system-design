@@ -1,0 +1,48 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw-jetbrains-plugin",
+  "elements": [
+    {
+      "id": "nzvruB8eYeCuDspzDb_yD",
+      "type": "text",
+      "x": 227,
+      "y": 109,
+      "width": 262.39984130859375,
+      "height": 350,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1551510346,
+      "version": 250,
+      "versionNonce": 1202586006,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1773156941754,
+      "link": null,
+      "locked": false,
+      "text": "Rough flow\n\n1) View product/category\n2) Add product cart\n3) Place order -> invoice\n4) Payment/checkout\n\nObjects\n\n- User        -Invoice\n- Product     - Payment\n- Cart        - Inventory\n- Order       - Warehouse\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 343,
+      "containerId": null,
+      "originalText": "Rough flow\n\n1) View product/category\n2) Add product cart\n3) Place order -> invoice\n4) Payment/checkout\n\nObjects\n\n- User        -Invoice\n- Product     - Payment\n- Cart        - Inventory\n- Order       - Warehouse\n",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
